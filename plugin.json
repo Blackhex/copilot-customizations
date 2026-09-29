@@ -1,0 +1,6 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "copilot-customizations",
+  "version": "1.0.0",
+  "description": "Reusable instructions for GitHub Copilot coding workflows."
+}
